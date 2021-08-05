@@ -1,0 +1,13 @@
+[
+  "TestL.py::TestL::test_Login",
+  "ProcedureIndications.py::TestL::test_procedureorder",
+  "procorderstest.py::TestL::test_procedureorder",
+  "procedurescategory.py::TestL::test_procedureorder",
+  "ProcedureIndications.py::TestL::test123",
+  "DocLogTypes.py::TestL::test123",
+  "DocLgs.py::TestL::test123",
+  "preadmission.py::TestL::test123",
+  "Preadmission_patientinstructions.py::TestL::test123",
+  "miscpicklist_picklist.py::TestL::test123",
+  "miscpicklists_DBpicklists.py::TestL::test123"
+]
