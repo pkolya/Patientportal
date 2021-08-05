@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="729f5734-58c6-4eec-8fe2-be76ef12d985" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mNctXmNXB0SM2oSZvTuI5916RJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OrangeHRMS" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in ProcedureIndications.py">
+    <configuration name="fromscratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PATIENTPORTAL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCases/fromscratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="procedureorderndcid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PATIENTPORTAL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCases/procedureorderndcid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in ProcedureIndications.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PATIENTPORTAL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCases/ProcedureIndications.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in procedurescategory.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PATIENTPORTAL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCases/procedurescategory.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in procorderstest.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PATIENTPORTAL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCases/procorderstest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in ProcedureIndications.py" />
+        <item itemvalue="Python tests.pytest in procedurescategory.py" />
+        <item itemvalue="Python tests.pytest in procorderstest.py" />
+        <item itemvalue="Python.fromscratch" />
+        <item itemvalue="Python.procedureorderndcid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="729f5734-58c6-4eec-8fe2-be76ef12d985" name="Default Changelist" comment="" />
+      <created>1609337703276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609337703276</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="142" key="#HomePage_PatientPortal" timestamp="1611053937214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="142" key="#HomePage_PatientPortal/0.0.1920.1040@0.0.1920.1040" timestamp="1611053937214" />
+    <state x="686" y="157" key="#TestL_(1)" timestamp="1610014546157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="157" key="#TestL_(1)/0.0.1920.1040@0.0.1920.1040" timestamp="1610014546157" />
+    <state x="686" y="160" key="#Unittests_in_TestL.py" timestamp="1610014635065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="160" key="#Unittests_in_TestL.py/0.0.1920.1040@0.0.1920.1040" timestamp="1610014635065" />
+    <state x="689" y="299" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1611053993252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="299" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611053993252" />
+    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1615283964033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615283964033" />
+    <state width="1921" height="373" key="GridCell.Tab.0.bottom" timestamp="1615369600575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="373" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615369600575" />
+    <state width="1921" height="373" key="GridCell.Tab.0.center" timestamp="1615369600575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="373" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615369600575" />
+    <state width="1921" height="373" key="GridCell.Tab.0.left" timestamp="1615369600575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="373" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615369600575" />
+    <state width="1921" height="373" key="GridCell.Tab.0.right" timestamp="1615369600575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="373" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615369600575" />
+    <state width="1921" height="373" key="GridCell.Tab.1.bottom" timestamp="1615369600575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="373" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615369600575" />
+    <state width="1921" height="373" key="GridCell.Tab.1.center" timestamp="1615369600575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="373" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615369600575" />
+    <state width="1921" height="373" key="GridCell.Tab.1.left" timestamp="1615369600575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="373" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615369600575" />
+    <state width="1921" height="373" key="GridCell.Tab.1.right" timestamp="1615369600575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="373" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615369600575" />
+    <state x="463" y="161" key="SettingsEditor" timestamp="1611054265978">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611054265978" />
+    <state width="885" height="481" key="XDebugger.FullValuePopup" timestamp="1615214053380">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="885" height="481" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1615214053380" />
+    <state x="667" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1615352291556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615352291556" />
+    <state x="534" y="254" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1611053996359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="534" y="254" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1611053996359" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/TestCases/fromscratch.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/TestCases/ProcedureIndications.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-defaults>
+        <breakpoint type="python-line" />
+      </breakpoints-defaults>
+    </breakpoint-manager>
+  </component>
+</project>
