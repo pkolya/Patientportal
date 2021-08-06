@@ -77,7 +77,7 @@ class TestL(unittest.TestCase):
                 ws.cell(row=x+2, column=cols+18).value = actual_txt_sub_selection_number
                 ws.cell(row=x+2, column=cols+19).value = actual_txt_type_parameter
             wb.save('D:/OrthoASC/Results/Results/OrthoASC_02_InsertIndicationsz_output.xlsx')
-            colsnew = ws.max_column
+            ##colsnew = ws.max_column
             for s in range(2, ws.max_row + 1):
                 for s2 in range(1,cols+1):
                     if ws.cell(s, s2).value == ws.cell(s, cols + s2).value:
@@ -96,4 +96,5 @@ class TestL(unittest.TestCase):
 if __name__== '__main__':
     unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output='D:/Back up/Back up/pyprojects/PATIENTPORTAL/Reports'))
         # driver.quit()
+    ###closing
 
